@@ -74,7 +74,7 @@
     "electron-store": "^5.2.0",
     "get-port": "^5.1.1",
     "highlight.js": "^10.2.1",
-    "jscodeshift": "^0.12.0",
+    "jscodeshift": "^0.14.0",
     "jsoneditor": "^9.4.1",
     "karma-electron": "^6.3.3",
     "karma-electron-launcher": "^0.3.0",
